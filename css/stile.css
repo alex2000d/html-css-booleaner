@@ -12,7 +12,9 @@ header {
 }
 
 h1 {
-    font-size: 50px;
+font-size: 50px;
+
+
 }
  
 .testo2{
@@ -22,4 +24,44 @@ h1 {
 
 .testo1{
     font-size: 25px;
+}
+
+.contenitore img {
+width: 250px
+}
+
+.logo{
+    top: 90px;
+    position:relative;
+}
+
+.contenitore2{
+    top: 120px;
+    position: relative;
+}
+
+.contenitore3{
+    top: 620px;
+    position: relative;
+}
+
+.contenitore4{
+    top: 680px;
+    position: relative
+}
+
+.contenitore5{
+    top: 720px;
+    position: relative
+}
+
+table tr, td, th{
+    border: 1px solid black;
+    border-collapse: collapse;
+     background-color:lightblue;
+}
+
+.contenitore6{
+    top: 820px;
+    position: relative
 }
