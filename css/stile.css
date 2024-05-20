@@ -1,0 +1,25 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+header {
+    height: 180px;
+     background-image: url(../img/pattern.png);
+     background-color: lightblue;
+     
+}
+
+h1 {
+    font-size: 50px;
+}
+ 
+.testo2{
+  font-size: 25px;
+  color: blue;
+}
+
+.testo1{
+    font-size: 25px;
+}
